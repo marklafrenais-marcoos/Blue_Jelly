@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node3" appversion="5.2.0" apprev="15969">
+  <panorama id="node1">
+    <input prev2url="images/VR_1st_Stairs_o_preview_2.jpg" prev3url="images/VR_1st_Stairs_o_preview_3.jpg" prev1url="images/VR_1st_Stairs_o_preview_1.jpg" levelingpitch="0" tile0url="images/VR_1st_Stairs_o_0.jpg" prev0url="images/VR_1st_Stairs_o_preview_0.jpg" prev5url="images/VR_1st_Stairs_o_preview_5.jpg" tile1url="images/VR_1st_Stairs_o_1.jpg" tile5url="images/VR_1st_Stairs_o_5.jpg" tile2url="images/VR_1st_Stairs_o_2.jpg" tilescale="1.009766" tile3url="images/VR_1st_Stairs_o_3.jpg" tile4url="images/VR_1st_Stairs_o_4.jpg" levelingroll="0" prev4url="images/VR_1st_Stairs_o_preview_4.jpg" tilesize="1024">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata comment="" longitude="" copyright="" tags="INPUT" customnodeid="" datetime="17/02/2017 08:30" source="" info="" latitude="" title="" author="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" enabled="1" border="1" width="180" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" height="20" textcolor="0x000000" wordwrap="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" tilt="-7.55" skinid="ht_node" url="{node2}" title="STAIRS" pan="-73.26" description=""/>
+      <hotspot id="Point02" target="" tilt="-5.94" skinid="ht_node" url="{node5}" title="Design Area" pan="122.94" description=""/>
+      <hotspot id="Point03" target="" tilt="-7.44" skinid="ht_node" url="{node4}" title="Contract" pan="-128.53" description=""/>
+      <hotspot id="Point04" target="" tilt="-7.87" skinid="ht_node" url="{node10}" title="Small Office" pan="-4.39" description=""/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" tilt="20.13" blinding="50" color="0xffffff" alpha="80" type="1" pan="-70.28"/>
+    </media>
+    <transition blendcolor="0x000000" enabled="0" zoomspeed="2" zoomfov="20" zoomout="0" softedge="0" blendtime="1" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <autorotate returntohorizon="0.000" enabled="1" speed="0.050" delay="20.00" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" rubberband="0" speedwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input prev2url="images/STAIRCASE_o_preview_2.jpg" prev3url="images/STAIRCASE_o_preview_3.jpg" prev1url="images/STAIRCASE_o_preview_1.jpg" levelingpitch="0" tile0url="images/STAIRCASE_o_0.jpg" prev0url="images/STAIRCASE_o_preview_0.jpg" prev5url="images/STAIRCASE_o_preview_5.jpg" tile1url="images/STAIRCASE_o_1.jpg" tile5url="images/STAIRCASE_o_5.jpg" tile2url="images/STAIRCASE_o_2.jpg" tilescale="1.009766" tile3url="images/STAIRCASE_o_3.jpg" tile4url="images/STAIRCASE_o_4.jpg" levelingroll="0" prev4url="images/STAIRCASE_o_preview_4.jpg" tilesize="1024">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata comment="" longitude="" copyright="" tags="INPUT" customnodeid="" datetime="20/02/2017 05:51" source="" info="" latitude="" title="" author="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" enabled="1" border="1" width="180" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" height="20" textcolor="0x000000" wordwrap="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="133.9/-9.4/70.0" tilt="7.38" skinid="ht_node" url="{node1}" title="UPSTAIRS" pan="14.89" description=""/>
+      <hotspot id="Point02" target="" tilt="-41.65" skinid="ht_node" url="{node3}" title="Downstairs" pan="-26.09" description=""/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" tilt="54.02" blinding="50" color="0xffffff" alpha="80" type="1" pan="-0.9"/>
+      <lensflare id="Lensflare02" tilt="27.77" blinding="50" color="0xffffff" alpha="80" type="1" pan="-0.54"/>
+    </media>
+    <transition blendcolor="0x000000" enabled="0" zoomspeed="2" zoomfov="20" zoomout="0" softedge="0" blendtime="1" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <autorotate returntohorizon="0.000" enabled="1" speed="0.050" delay="20.00" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" rubberband="0" speedwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input prev2url="images/VR_GF_Stairs_o_preview_2.jpg" prev3url="images/VR_GF_Stairs_o_preview_3.jpg" prev1url="images/VR_GF_Stairs_o_preview_1.jpg" levelingpitch="0" tile0url="images/VR_GF_Stairs_o_0.jpg" prev0url="images/VR_GF_Stairs_o_preview_0.jpg" prev5url="images/VR_GF_Stairs_o_preview_5.jpg" tile1url="images/VR_GF_Stairs_o_1.jpg" tile5url="images/VR_GF_Stairs_o_5.jpg" tile2url="images/VR_GF_Stairs_o_2.jpg" tilescale="1.009766" tile3url="images/VR_GF_Stairs_o_3.jpg" tile4url="images/VR_GF_Stairs_o_4.jpg" levelingroll="0" prev4url="images/VR_GF_Stairs_o_preview_4.jpg" tilesize="1024">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata comment="" longitude="" copyright="" tags="INPUT" customnodeid="" datetime="18/02/2017 14:01" source="" info="" latitude="" title="" author="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" enabled="1" border="1" width="180" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" height="20" textcolor="0x000000" wordwrap="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="-2.5/-4.0/70.0" tilt="19.41" skinid="ht_node" url="{node2}" title="UPSTAIRS" pan="-44.48" description=""/>
+      <hotspot id="Point02" target="-104.3/-8.0/70.0" tilt="-3.91" skinid="ht_node" url="{node6}" title="Kitchen" pan="179.65" description=""/>
+      <hotspot id="Point03" target="" tilt="-3.78" skinid="ht_node" url="{node7}" title="Waiting Area" pan="63.18" description="Waiting Area"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" enabled="0" zoomspeed="2" zoomfov="20" zoomout="0" softedge="0" blendtime="1" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <autorotate returntohorizon="0.000" enabled="1" speed="0.050" delay="20.00" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" rubberband="0" speedwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input prev2url="images/VR_1st_Contracts_o_preview_2.jpg" prev3url="images/VR_1st_Contracts_o_preview_3.jpg" prev1url="images/VR_1st_Contracts_o_preview_1.jpg" levelingpitch="0" tile0url="images/VR_1st_Contracts_o_0.jpg" prev0url="images/VR_1st_Contracts_o_preview_0.jpg" prev5url="images/VR_1st_Contracts_o_preview_5.jpg" tile1url="images/VR_1st_Contracts_o_1.jpg" tile5url="images/VR_1st_Contracts_o_5.jpg" tile2url="images/VR_1st_Contracts_o_2.jpg" tilescale="1.009766" tile3url="images/VR_1st_Contracts_o_3.jpg" tile4url="images/VR_1st_Contracts_o_4.jpg" levelingroll="0" prev4url="images/VR_1st_Contracts_o_preview_4.jpg" tilesize="1024">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata comment="" longitude="" copyright="" tags="INPUT" customnodeid="" datetime="20/02/2017 00:08" source="" info="" latitude="" title="" author="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" enabled="1" border="1" width="180" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" height="20" textcolor="0x000000" wordwrap="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" tilt="-3.99" skinid="ht_node" url="{node1}" title="Top of Stairs" pan="47.51" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" enabled="0" zoomspeed="2" zoomfov="20" zoomout="0" softedge="0" blendtime="1" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <autorotate returntohorizon="0.000" enabled="1" speed="0.050" delay="20.00" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" rubberband="0" speedwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input prev2url="images/VR_1st_DesignArea_o_preview_2.jpg" prev3url="images/VR_1st_DesignArea_o_preview_3.jpg" prev1url="images/VR_1st_DesignArea_o_preview_1.jpg" levelingpitch="0" tile0url="images/VR_1st_DesignArea_o_0.jpg" prev0url="images/VR_1st_DesignArea_o_preview_0.jpg" prev5url="images/VR_1st_DesignArea_o_preview_5.jpg" tile1url="images/VR_1st_DesignArea_o_1.jpg" tile5url="images/VR_1st_DesignArea_o_5.jpg" tile2url="images/VR_1st_DesignArea_o_2.jpg" tilescale="1.009766" tile3url="images/VR_1st_DesignArea_o_3.jpg" tile4url="images/VR_1st_DesignArea_o_4.jpg" levelingroll="0" prev4url="images/VR_1st_DesignArea_o_preview_4.jpg" tilesize="1024">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata comment="" longitude="" copyright="" tags="INPUT" customnodeid="" datetime="19/02/2017 12:37" source="" info="" latitude="" title="" author="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" enabled="1" border="1" width="180" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" height="20" textcolor="0x000000" wordwrap="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" tilt="-8.45" skinid="ht_node" url="{node1}" title="Stairs" pan="-52.79" description=""/>
+      <hotspot id="Point02" target="" tilt="-4.22" skinid="ht_node" url="{node1}" title="Small Office" pan="-34.94" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" enabled="0" zoomspeed="2" zoomfov="20" zoomout="0" softedge="0" blendtime="1" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <autorotate returntohorizon="0.000" enabled="1" speed="0.050" delay="20.00" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" rubberband="0" speedwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input prev2url="images/GF_VR_KITCHEN_o_preview_2.jpg" prev3url="images/GF_VR_KITCHEN_o_preview_3.jpg" prev1url="images/GF_VR_KITCHEN_o_preview_1.jpg" levelingpitch="0" tile0url="images/GF_VR_KITCHEN_o_0.jpg" prev0url="images/GF_VR_KITCHEN_o_preview_0.jpg" prev5url="images/GF_VR_KITCHEN_o_preview_5.jpg" tile1url="images/GF_VR_KITCHEN_o_1.jpg" tile5url="images/GF_VR_KITCHEN_o_5.jpg" tile2url="images/GF_VR_KITCHEN_o_2.jpg" tilescale="1.009766" tile3url="images/GF_VR_KITCHEN_o_3.jpg" tile4url="images/GF_VR_KITCHEN_o_4.jpg" levelingroll="0" prev4url="images/GF_VR_KITCHEN_o_preview_4.jpg" tilesize="1024">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata comment="" longitude="" copyright="" tags="INPUT" customnodeid="" datetime="18/02/2017 22:54" source="" info="" latitude="" title="" author="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" enabled="1" border="1" width="180" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" height="20" textcolor="0x000000" wordwrap="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" tilt="-3.35" skinid="ht_node" url="{node3}" title="Entrance" pan="56.6" description=""/>
+      <hotspot id="Point02" target="" tilt="-8.33" skinid="ht_node" url="{node8}" title="Meeting Room 1" pan="-149.19" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" enabled="0" zoomspeed="2" zoomfov="20" zoomout="0" softedge="0" blendtime="1" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <autorotate returntohorizon="0.000" enabled="1" speed="0.050" delay="20.00" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" rubberband="0" speedwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input prev2url="images/GF_WAITING_o_preview_2.jpg" prev3url="images/GF_WAITING_o_preview_3.jpg" prev1url="images/GF_WAITING_o_preview_1.jpg" levelingpitch="0" tile0url="images/GF_WAITING_o_0.jpg" prev0url="images/GF_WAITING_o_preview_0.jpg" prev5url="images/GF_WAITING_o_preview_5.jpg" tile1url="images/GF_WAITING_o_1.jpg" tile5url="images/GF_WAITING_o_5.jpg" tile2url="images/GF_WAITING_o_2.jpg" tilescale="1.009766" tile3url="images/GF_WAITING_o_3.jpg" tile4url="images/GF_WAITING_o_4.jpg" levelingroll="0" prev4url="images/GF_WAITING_o_preview_4.jpg" tilesize="1024">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata comment="" longitude="" copyright="" tags="INPUT" customnodeid="" datetime="17/02/2017 22:34" source="" info="" latitude="" title="" author="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" enabled="1" border="1" width="180" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" height="20" textcolor="0x000000" wordwrap="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" tilt="3.11" skinid="ht_node" url="{node3}" title="Entrance" pan="43.46" description=""/>
+      <hotspot id="Point02" target="" tilt="2.03" skinid="ht_node" url="{node9}" title="Meeting Room 2" pan="2.65" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" enabled="0" zoomspeed="2" zoomfov="20" zoomout="0" softedge="0" blendtime="1" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <autorotate returntohorizon="0.000" enabled="1" speed="0.050" delay="20.00" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" rubberband="0" speedwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input prev2url="images/VR_GF_MeetingRoomOne_o_preview_2.jpg" prev3url="images/VR_GF_MeetingRoomOne_o_preview_3.jpg" prev1url="images/VR_GF_MeetingRoomOne_o_preview_1.jpg" levelingpitch="0" tile0url="images/VR_GF_MeetingRoomOne_o_0.jpg" prev0url="images/VR_GF_MeetingRoomOne_o_preview_0.jpg" prev5url="images/VR_GF_MeetingRoomOne_o_preview_5.jpg" tile1url="images/VR_GF_MeetingRoomOne_o_1.jpg" tile5url="images/VR_GF_MeetingRoomOne_o_5.jpg" tile2url="images/VR_GF_MeetingRoomOne_o_2.jpg" tilescale="1.009766" tile3url="images/VR_GF_MeetingRoomOne_o_3.jpg" tile4url="images/VR_GF_MeetingRoomOne_o_4.jpg" levelingroll="0" prev4url="images/VR_GF_MeetingRoomOne_o_preview_4.jpg" tilesize="1024">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata comment="" longitude="" copyright="" tags="INPUT" customnodeid="" datetime="18/02/2017 05:26" source="" info="" latitude="" title="" author="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" enabled="1" border="1" width="180" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" height="20" textcolor="0x000000" wordwrap="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="-29.3/-14.5/70.0" tilt="-6.89" skinid="ht_node" url="{node6}" title="Kitchen" pan="19.67" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" enabled="0" zoomspeed="2" zoomfov="20" zoomout="0" softedge="0" blendtime="1" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <autorotate returntohorizon="0.000" enabled="1" speed="0.050" delay="20.00" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" rubberband="0" speedwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input prev2url="images/VR_GF_MeetingRoomTwo_o_preview_2.jpg" prev3url="images/VR_GF_MeetingRoomTwo_o_preview_3.jpg" prev1url="images/VR_GF_MeetingRoomTwo_o_preview_1.jpg" levelingpitch="0" tile0url="images/VR_GF_MeetingRoomTwo_o_0.jpg" prev0url="images/VR_GF_MeetingRoomTwo_o_preview_0.jpg" prev5url="images/VR_GF_MeetingRoomTwo_o_preview_5.jpg" tile1url="images/VR_GF_MeetingRoomTwo_o_1.jpg" tile5url="images/VR_GF_MeetingRoomTwo_o_5.jpg" tile2url="images/VR_GF_MeetingRoomTwo_o_2.jpg" tilescale="1.009766" tile3url="images/VR_GF_MeetingRoomTwo_o_3.jpg" tile4url="images/VR_GF_MeetingRoomTwo_o_4.jpg" levelingroll="0" prev4url="images/VR_GF_MeetingRoomTwo_o_preview_4.jpg" tilesize="1024">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata comment="" longitude="" copyright="" tags="INPUT" customnodeid="" datetime="19/02/2017 05:49" source="" info="" latitude="" title="" author="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" enabled="1" border="1" width="180" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" height="20" textcolor="0x000000" wordwrap="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="17.3/-6.1/70.0" tilt="-9.42" skinid="ht_node" url="{node7}" title="Waiting Area" pan="-116.84" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" enabled="0" zoomspeed="2" zoomfov="20" zoomout="0" softedge="0" blendtime="1" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <autorotate returntohorizon="0.000" enabled="1" speed="0.050" delay="20.00" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" rubberband="0" speedwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input prev2url="images/1st_SMALL-OFFICE_o_preview_2.jpg" prev3url="images/1st_SMALL-OFFICE_o_preview_3.jpg" prev1url="images/1st_SMALL-OFFICE_o_preview_1.jpg" levelingpitch="0" tile0url="images/1st_SMALL-OFFICE_o_0.jpg" prev0url="images/1st_SMALL-OFFICE_o_preview_0.jpg" prev5url="images/1st_SMALL-OFFICE_o_preview_5.jpg" tile1url="images/1st_SMALL-OFFICE_o_1.jpg" tile5url="images/1st_SMALL-OFFICE_o_5.jpg" tile2url="images/1st_SMALL-OFFICE_o_2.jpg" tilescale="1.009766" tile3url="images/1st_SMALL-OFFICE_o_3.jpg" tile4url="images/1st_SMALL-OFFICE_o_4.jpg" levelingroll="0" prev4url="images/1st_SMALL-OFFICE_o_preview_4.jpg" tilesize="1024">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata comment="" longitude="" copyright="" tags="INPUT" customnodeid="" datetime="20/02/2017 09:45" source="" info="" latitude="" title="" author="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" enabled="1" border="1" width="180" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" height="20" textcolor="0x000000" wordwrap="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" tilt="-7.43" skinid="ht_node" url="{node1}" title="Stairs " pan="-170.28" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" enabled="0" zoomspeed="2" zoomfov="20" zoomout="0" softedge="0" blendtime="1" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <autorotate returntohorizon="0.000" enabled="1" speed="0.050" delay="20.00" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" rubberband="0" speedwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+</tour>
